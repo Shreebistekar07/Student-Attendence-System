@@ -1,2 +1,17 @@
 # Student-Attendence-System
-The project aims to develop a sophisticated attendance tracking system that benefits teachers, students, and college administrators by automating the entire process. It's designed with scalability and code reusability in mind, allowing for easy modifications by adjusting a few variables to achieve different outcomes. Additionally, the project can incorporate new features without disrupting existing ones. This is accomplished through the use of Object-Oriented Programming (OOP), a modular approach for designing web services, and adherence to the MVC (Model-View-Controller) framework. These design choices enable the project to be extended to mobile applications and other platforms.
+The Online Attendance Management System in PHP is a cutting-edge tool designed to efficiently track and manage the attendance of students and employees. By adding the word "online" to this system, it becomes highly versatile, as it can be accessed from anywhere in the world. This online system not only monitors and records attendance but also provides transparency, allowing students to check their attendance records anytime, anywhere.
+
+Technologies Used:
+Front End:
+
+HTML: Used for creating and saving web documents (e.g., with Notepad/Notepad++).
+CSS (Cascading Style Sheets): Used to create visually appealing layouts.
+JavaScript: A programming language commonly used with web browsers.
+Bootstrap: Utilized for creating responsive and mobile-friendly designs.
+jQuery and Ajax: For enhancing interactivity and dynamic content.
+Back End:
+
+PHP (Hypertext Preprocessor): An open-source technology that enables developers to create dynamic web pages in HTML, XML, or other formats based on client requests.
+MySQL: A widely used database system for accessing, querying, updating, and managing data.
+Features:
+When a teacher or student joins the institution, they are required to sign up for the online attendance management system. The admin must then review and approve their account activation. Once the account is approved, users can access their accounts and utilize the system.
